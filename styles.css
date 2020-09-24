@@ -1,0 +1,19 @@
+/** mislee framework. */
+@import url('https://fonts.googleapis.com/css?family=Baloo%20Tammudu%202');
+body, html {
+    font-family: 'Baloo Tammudu 2', sans-serif;
+    height: 100vh;
+    margin: auto;
+}
+.title {
+    font-size: 80px;
+    color: #fffffe;
+}
+.hero {
+  display: flex;
+  background-color: #232946;
+  height: 30%;
+}
+.hero-item {
+    margin: auto;
+}
